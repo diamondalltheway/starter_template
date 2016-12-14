@@ -6,7 +6,11 @@ Includes:
 
 ruby 2.3.0
 rails 5.0.0
+bootstrap 
 
+Heroku ready --
+-PostgreSQL (production)
+-sqlite3 (development)
 
 
 
@@ -14,3 +18,8 @@ C9 Configurations...
 
 1. terminal opens in ~/starter_template (.bashrc file)
 2. "Run" button in C9 configured to (rails s -p $PORT -b $IP)
+
+
+Later
+
+gem 'puma', '~> 4.1.0
