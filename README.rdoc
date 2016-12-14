@@ -1,0 +1,16 @@
+== README
+
+This is a template created for fast development. (Also additional onfigurations within the C9 IDE)
+
+Includes:
+
+ruby 2.3.0
+rails 5.0.0
+
+
+
+
+C9 Configurations...
+
+1. terminal opens in ~/starter_template (.bashrc file)
+2. "Run" button in C9 configured to (rails s -p $PORT -b $IP)
